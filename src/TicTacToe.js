@@ -49,7 +49,7 @@ function TicTacToe() {
     });
 
     const checkDraw = () => {
-      if (board.every(item => item !== "") && !possible) {
+      if (board.every(item => item !== "") && possible == false) {
         setWinner("E");
       }
     }
