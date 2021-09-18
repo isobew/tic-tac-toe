@@ -1,6 +1,8 @@
 # <p align="center"> Tic-tac-toe </p>
 ### <p align="center"> Jogo da Velha feito a partir de um tutorial para praticar o estudo do ReactJS. </p>
 
+<img src="https://user-images.githubusercontent.com/78851164/133872856-7f1fb26e-1955-4701-a50e-09c5933102e0.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
