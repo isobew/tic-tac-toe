@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Tic-tac-toe
-Jogo da Velha feito a partir de um tutorial para praticar o estudo do ReactJS.
-=======
+# <p align="center"> Tic-tac-toe </p>
+### <p align="center"> Jogo da Velha feito a partir de um tutorial para praticar o estudo do ReactJS. </p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
